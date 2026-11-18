@@ -1,0 +1,20 @@
+# ─────────────────────────────────────────────────────────────────────
+# L'ONTOLOGIE DE TON PROJET : remplace tout ce qui suit par ton sujet.
+# (Pour partir de l'exemple domotique :  make exemple-domotique)
+#
+# Règles :
+#  - noms en minuscules, chiffres et _ seulement (ex. : reserver_table) ;
+#  - 3 à 12 intentions, chacune avec une description courte et claire ;
+#  - 0 à 8 types de slots. Une tâche SANS slot (classification seule) est
+#    possible : écris alors  slots: {}
+# Une réponse du modèle aura la forme :  intention | slot=valeur | slot=valeur
+# ─────────────────────────────────────────────────────────────────────
+
+domaine: A_REMPLIR une phrase qui décrit l'usage (ex. les commandes vocales d'une voiture)
+
+intentions:
+  intention_a_remplir_1: ce que veut l'utilisateur dans ce cas
+  intention_a_remplir_2: ce que veut l'utilisateur dans ce cas
+
+slots:
+  slot_a_remplir: un détail utile recopié du message (une date, un lieu...)
