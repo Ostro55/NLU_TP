@@ -1,20 +1,16 @@
-# ─────────────────────────────────────────────────────────────────────
-# L'ONTOLOGIE DE TON PROJET : remplace tout ce qui suit par ton sujet.
-# (Pour partir de l'exemple domotique :  make exemple-domotique)
-#
-# Règles :
-#  - noms en minuscules, chiffres et _ seulement (ex. : reserver_table) ;
-#  - 3 à 12 intentions, chacune avec une description courte et claire ;
-#  - 0 à 8 types de slots. Une tâche SANS slot (classification seule) est
-#    possible : écris alors  slots: {}
-# Une réponse du modèle aura la forme :  intention | slot=valeur | slot=valeur
-# ─────────────────────────────────────────────────────────────────────
-
-domaine: A_REMPLIR une phrase qui décrit l'usage (ex. les commandes vocales d'une voiture)
+domaine: comprendre les demandes courtes d'un voyageur au Japon
 
 intentions:
-  intention_a_remplir_1: ce que veut l'utilisateur dans ce cas
-  intention_a_remplir_2: ce que veut l'utilisateur dans ce cas
+  itineraire: demander comment se déplacer entre des lieux au Japon
+  hebergement: chercher ou choisir un logement
+  restaurant: chercher un restaurant ou demander des conseils de cuisine
+  visite: chercher un lieu touristique ou une activité à visiter
+  coutumes: demander une explication sur les usages et l'étiquette au Japon
+  services_pratiques: chercher un service utile comme des toilettes, un distributeur ou une consigne
 
 slots:
-  slot_a_remplir: un détail utile recopié du message (une date, un lieu...)
+  lieu_depart: lieu depuis lequel le voyageur veut partir
+  lieu_arrivee: lieu où le voyageur veut aller
+  ville: ville concernée par la demande
+  date: jour ou période mentionné dans la demande
+  critere: préférence ou sujet qui précise la demande, par exemple calme, végétarien, onsen ou consigne

@@ -1,1 +1,25 @@
 phrase;reponse
+comment me rendre de kyoto à kobe;itineraire | lieu_depart=kyoto | lieu_arrivee=kobe
+je cherche un logement à nagasaki pour mardi;hebergement | ville=nagasaki | date=mardi
+où manger des udon à takamatsu;restaurant | ville=takamatsu | critere=udon
+que visiter à fukuoka dimanche;visite | ville=fukuoka | date=dimanche
+comment se comporter dans les trains japonais;coutumes | critere=se comporter dans les trains
+où trouver une laverie à kyoto;services_pratiques | ville=kyoto | critere=laverie
+quel trajet entre hakone et tokyo;itineraire | lieu_depart=hakone | lieu_arrivee=tokyo
+un hôtel avec bain thermal à beppu;hebergement | ville=beppu | critere=bain thermal
+je voudrais goûter des soba à nagano;restaurant | ville=nagano | critere=soba
+quels sanctuaires découvrir à kamakura;visite | ville=kamakura | critere=sanctuaires
+faut-il retirer ses chaussures dans les maisons japonaises;coutumes | critere=retirer ses chaussures
+où acheter une carte de transport à osaka;services_pratiques | ville=osaka | critere=carte de transport
+je pars de hiroshima pour rejoindre fukuoka;itineraire | lieu_depart=hiroshima | lieu_arrivee=fukuoka
+où dormir à yokohama demain soir;hebergement | ville=yokohama | date=demain soir
+un restaurant avec des plats végétaliens à kyoto;restaurant | ville=kyoto | critere=plats végétaliens
+où voir des pandas à tokyo;visite | ville=tokyo | critere=pandas
+comment offrir un cadeau au japon;coutumes | critere=offrir un cadeau
+je cherche un distributeur à kanazawa;services_pratiques | ville=kanazawa | critere=distributeur
+indique le chemin de nara vers osaka;itineraire | lieu_depart=nara | lieu_arrivee=osaka
+un ryokan traditionnel à kyoto pour mercredi;hebergement | ville=kyoto | date=mercredi | critere=traditionnel
+où prendre un café à uji;restaurant | ville=uji | critere=café
+je veux visiter le parc de la paix à hiroshima;visite | ville=hiroshima | critere=parc de la paix
+est-ce qu'on peut manger dans les transports au japon;coutumes | critere=manger dans les transports
+où trouver des toilettes à la gare de tokyo;services_pratiques | ville=tokyo | critere=toilettes

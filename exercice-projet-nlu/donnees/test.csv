@@ -1,1 +1,25 @@
 phrase;reponse
+quel est le trajet pour aller de nagasaki à kumamoto;itineraire | lieu_depart=nagasaki | lieu_arrivee=kumamoto
+je cherche une auberge à nikko pour jeudi;hebergement | ville=nikko | date=jeudi | critere=auberge
+où manger des tempura à tokyo;restaurant | ville=tokyo | critere=tempura
+je veux découvrir les marchés de kanazawa;visite | ville=kanazawa | critere=marchés
+comment se tenir dans un sanctuaire japonais;coutumes | critere=se tenir dans un sanctuaire
+où faire réparer mon téléphone à osaka;services_pratiques | ville=osaka | critere=réparer mon téléphone
+comment rejoindre nagano depuis tokyo;itineraire | lieu_depart=tokyo | lieu_arrivee=nagano
+un hôtel avec petit déjeuner à himeji;hebergement | ville=himeji | critere=petit déjeuner
+je voudrais manger des yakitori à fukuoka;restaurant | ville=fukuoka | critere=yakitori
+quels paysages voir autour de hakone;visite | ville=hakone | critere=paysages
+est-ce que les pourboires sont attendus dans les restaurants;coutumes | critere=pourboires
+où acheter des médicaments à sapporo;services_pratiques | ville=sapporo | critere=médicaments
+je dois aller de kobe à kyoto;itineraire | lieu_depart=kobe | lieu_arrivee=kyoto
+où trouver un logement abordable à hiroshima;hebergement | ville=hiroshima | critere=abordable
+un restaurant de yakisoba à himeji;restaurant | ville=himeji | critere=yakisoba
+que faire à takayama pendant la journée;visite | ville=takayama | date=pendant la journée
+quelles sont les règles pour les bains publics au japon;coutumes | critere=règles pour les bains publics
+je voudrais louer un pocket wifi à kyoto;services_pratiques | ville=kyoto | critere=louer un pocket wifi
+quel moyen de transport de yokohama à kamakura;itineraire | lieu_depart=yokohama | lieu_arrivee=kamakura
+un ryokan avec onsen à kusatsu;hebergement | ville=kusatsu | critere=onsen
+où manger des takoyaki à osaka;restaurant | ville=osaka | critere=takoyaki
+quels châteaux visiter au japon à nagoya;visite | ville=nagoya | critere=châteaux
+peut-on prendre des photos dans les temples de kyoto;coutumes | ville=kyoto | critere=prendre des photos dans les temples
+où trouver une consigne pour mon sac à tokyo;services_pratiques | ville=tokyo | critere=consigne

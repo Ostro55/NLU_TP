@@ -1,1 +1,91 @@
 phrase;reponse
+comment aller de tokyo à kyoto;itineraire | lieu_depart=tokyo | lieu_arrivee=kyoto
+quel est le meilleur trajet de osaka à nara;itineraire | lieu_depart=osaka | lieu_arrivee=nara
+je pars de nagoya pour rejoindre kanazawa;itineraire | lieu_depart=nagoya | lieu_arrivee=kanazawa
+comment rejoindre hakone depuis tokyo;itineraire | lieu_depart=tokyo | lieu_arrivee=hakone
+quel train prendre de kyoto à osaka;itineraire | lieu_depart=kyoto | lieu_arrivee=osaka
+je voudrais aller de fukuoka à hiroshima;itineraire | lieu_depart=fukuoka | lieu_arrivee=hiroshima
+pour aller à sapporo depuis hakodate;itineraire | lieu_depart=hakodate | lieu_arrivee=sapporo
+quel moyen de transport entre tokyo et nikko;itineraire | lieu_depart=tokyo | lieu_arrivee=nikko
+comment me rendre à kamakura depuis yokohama;itineraire | lieu_depart=yokohama | lieu_arrivee=kamakura
+quel itinéraire de kobe à himeji;itineraire | lieu_depart=kobe | lieu_arrivee=himeji
+je dois rejoindre takayama depuis nagoya;itineraire | lieu_depart=nagoya | lieu_arrivee=takayama
+comment partir de nara pour aller à kyoto;itineraire | lieu_depart=nara | lieu_arrivee=kyoto
+je veux aller de ueno à asakusa;itineraire | lieu_depart=ueno | lieu_arrivee=asakusa
+quelle route pour aller de tokyo au mont fuji;itineraire | lieu_depart=tokyo | lieu_arrivee=mont fuji
+indique le trajet entre osaka et himeji;itineraire | lieu_depart=osaka | lieu_arrivee=himeji
+je cherche un hôtel calme à kanazawa;hebergement | ville=kanazawa | critere=calme
+un ryokan pas cher à hakone pour vendredi;hebergement | ville=hakone | date=vendredi | critere=pas cher
+où dormir à kyoto samedi soir;hebergement | ville=kyoto | date=samedi soir
+je voudrais réserver une auberge à tokyo;hebergement | ville=tokyo | critere=auberge
+un logement près de la gare à nagoya;hebergement | ville=nagoya | critere=près de la gare
+avez-vous un hôtel familial à osaka;hebergement | ville=osaka | critere=familial
+je cherche un ryokan traditionnel à takayama;hebergement | ville=takayama | critere=traditionnel
+où loger à nara pour deux nuits;hebergement | ville=nara | date=deux nuits
+un hébergement avec vue sur le mont fuji;hebergement | critere=vue sur le mont fuji
+je cherche une chambre économique à fukuoka;hebergement | ville=fukuoka | critere=économique
+est-ce qu'il y a un hôtel ouvert ce soir à sapporo;hebergement | ville=sapporo | date=ce soir
+je voudrais un logement avec onsen à beppu;hebergement | ville=beppu | critere=onsen
+trouve-moi une auberge de jeunesse à hiroshima;hebergement | ville=hiroshima | critere=auberge de jeunesse
+un hôtel proche des temples de nikko;hebergement | ville=nikko | critere=proche des temples
+je cherche un endroit où dormir à kobe pour lundi;hebergement | ville=kobe | date=lundi
+où manger végétarien à osaka;restaurant | ville=osaka | critere=végétarien
+je cherche un restaurant de ramen à sapporo;restaurant | ville=sapporo | critere=ramen
+un bon restaurant de sushi à tokyo;restaurant | ville=tokyo | critere=sushi
+où goûter des okonomiyaki à hiroshima;restaurant | ville=hiroshima | critere=okonomiyaki
+je voudrais manger sans porc à kyoto;restaurant | ville=kyoto | critere=sans porc
+un restaurant pas cher à fukuoka;restaurant | ville=fukuoka | critere=pas cher
+où prendre un petit déjeuner à nagoya;restaurant | ville=nagoya | critere=petit déjeuner
+je cherche un café traditionnel à kanazawa;restaurant | ville=kanazawa | critere=café traditionnel
+un restaurant avec des options sans gluten à yokohama;restaurant | ville=yokohama | critere=sans gluten
+où manger des nouilles udon à takamatsu;restaurant | ville=takamatsu | critere=nouilles udon
+je cherche une pâtisserie à kobe;restaurant | ville=kobe | critere=pâtisserie
+un restaurant familial à nara pour ce soir;restaurant | ville=nara | date=ce soir | critere=familial
+où boire un thé matcha à uji;restaurant | ville=uji | critere=thé matcha
+je veux goûter la cuisine locale à beppu;restaurant | ville=beppu | critere=cuisine locale
+un restaurant ouvert dimanche à hakodate;restaurant | ville=hakodate | date=dimanche
+quels temples visiter à kyoto;visite | ville=kyoto | critere=temples
+je veux voir le grand bouddha à kamakura;visite | ville=kamakura | critere=grand bouddha
+que visiter à nara demain;visite | ville=nara | date=demain
+je cherche un musée intéressant à tokyo;visite | ville=tokyo | critere=musée
+quels jardins découvrir à kanazawa;visite | ville=kanazawa | critere=jardins
+une activité en plein air à hakone;visite | ville=hakone | critere=activité en plein air
+que peut-on faire à osaka le soir;visite | ville=osaka | date=le soir
+je veux visiter le château de himeji;visite | ville=himeji | critere=château
+quels quartiers découvrir à sapporo;visite | ville=sapporo | critere=quartiers
+des idées de visite à hiroshima samedi;visite | ville=hiroshima | date=samedi
+je voudrais voir les cerfs de nara;visite | ville=nara | critere=cerfs
+où faire une randonnée près de takayama;visite | ville=takayama | critere=randonnée
+est-ce qu'il y a un aquarium à yokohama;visite | ville=yokohama | critere=aquarium
+quelles sources chaudes découvrir à beppu;visite | ville=beppu | critere=sources chaudes
+je cherche une visite guidée à nagasaki;visite | ville=nagasaki | critere=visite guidée
+faut-il enlever ses chaussures dans un ryokan;coutumes | critere=chaussures
+comment se comporter dans un onsen;coutumes | critere=onsen
+est-ce qu'on laisse un pourboire au japon;coutumes | critere=pourboire
+quelles sont les règles dans un temple à kyoto;coutumes | ville=kyoto | critere=règles dans un temple
+dois-je parler fort dans le train à tokyo;coutumes | ville=tokyo | critere=parler fort dans le train
+comment saluer les gens au japon;coutumes | critere=saluer les gens
+peut-on manger en marchant à osaka;coutumes | ville=osaka | critere=manger en marchant
+quelle tenue porter dans un sanctuaire à nara;coutumes | ville=nara | critere=quelle tenue porter
+comment utiliser les baguettes au restaurant;coutumes | critere=baguettes
+est-il impoli de téléphoner dans le métro de tokyo;coutumes | ville=tokyo | critere=téléphoner dans le métro
+quelles règles respecter dans un ryokan à hakone;coutumes | ville=hakone | critere=ryokan
+doit-on se déchausser chez quelqu'un au japon;coutumes | critere=se déchausser
+comment se passe le bain dans un onsen à beppu;coutumes | ville=beppu | critere=bain dans un onsen
+est-ce que les tatouages sont acceptés dans les onsen;coutumes | critere=les tatouages
+comment faire la queue dans une gare à kyoto;coutumes | ville=kyoto | critere=faire la queue
+où trouver des toilettes près de la gare de nara;services_pratiques | ville=nara | critere=toilettes
+je cherche un distributeur de billets à tokyo;services_pratiques | ville=tokyo | critere=distributeur de billets
+où laisser ma valise à kyoto;services_pratiques | ville=kyoto | critere=laisser ma valise
+y a-t-il une pharmacie à osaka;services_pratiques | ville=osaka | critere=pharmacie
+où acheter une carte sim à l'aéroport de narita;services_pratiques | ville=narita | critere=carte sim
+je cherche une laverie à sapporo;services_pratiques | ville=sapporo | critere=laverie
+où trouver du wifi à la gare de nagoya;services_pratiques | ville=nagoya | critere=wifi
+est-ce qu'il y a un bureau de change à fukuoka;services_pratiques | ville=fukuoka | critere=bureau de change
+où recharger ma carte de transport à yokohama;services_pratiques | ville=yokohama | critere=recharger ma carte de transport
+je cherche un konbini ouvert près de moi;services_pratiques | critere=konbini
+où trouver un poste de secours à hakone;services_pratiques | ville=hakone | critere=poste de secours
+je voudrais louer un vélo à hiroshima;services_pratiques | ville=hiroshima | critere=louer un vélo
+où acheter un parapluie à kanazawa;services_pratiques | ville=kanazawa | critere=parapluie
+y a-t-il une consigne à la gare de kyoto;services_pratiques | ville=kyoto | critere=consigne
+où trouver un point d'information touristique à takayama;services_pratiques | ville=takayama | critere=point d'information touristique
